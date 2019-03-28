@@ -22,3 +22,7 @@ where
 
 
 ![latex](https://latex.codecogs.com/svg.latex?\Pi_{customerName,office\\_city}(\rho_{office\\_city/office.city}((\sigma_{salesRepEmployeeNumber=employeeNumber}(customers^{122}\times%20employees^{23}))^{14}\bowtie%20offices^{7})^{14}))
+
+
+
+Extra: we need a new operator to tell that some of the attributes has a way to access them faster. The X operator only combines everything and produces a huge result set.
