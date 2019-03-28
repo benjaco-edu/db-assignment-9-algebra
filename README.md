@@ -13,8 +13,7 @@ where
     customers.city = offices.city;
 ```
 
-1. Rewrite it as an expression in relational algebra
-2. Add row counts to the subexpressions
+1. Rewrite it as an expression in relational algebra + 2. Add row counts to the subexpressions
 
 ![latex](https://latex.codecogs.com/svg.latex?\Pi_{customerName,office\_city}(\rho_{office\_city/office.city}(\sigma_{salesRepEmployeeNumber=employeeNumber}(customers^{122}\times%20(employees^{23}\bowtie%20offices^{7})^{23})^{2806})^{14}))
 
